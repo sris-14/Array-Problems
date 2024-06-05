@@ -40,3 +40,4 @@ public class SecondLarge {
         System.out.println("second largest : "+slargest+ " & second smallest : " + ssmallest);
     }
 }
+
